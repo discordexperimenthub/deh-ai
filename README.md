@@ -17,5 +17,3 @@ This project is a community project and is open to all kinds of contributions. Y
 5. **Review**: Your pull request will be reviewed and accepted if deemed appropriate.
 
 For any contributions, suggestions and questions, you can create an issue or join discussions in our Discord community.
-
-Translated with www.DeepL.com/Translator (free version)
